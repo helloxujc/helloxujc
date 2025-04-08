@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi there, I'm Jiachen Xu 👋
 
-<!--
-**helloxujc/helloxujc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently pursuing an Align MS in Computer Science at Northeastern University's Seattle campus.
 
-Here are some ideas to get you started:
+My Projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎼 Music Notation Editor: An interactive score editor using OOP principles, enabling gesture-based input, real-time rendering of musical symbols (notes, clefs, key signatures), and dynamic spacing algorithms.
+
+🎮 Combat Game: A turn-based strategy game with custom-designed characters, each with unique skills and cooldown-based abilities.
+
+♦️ Collapse Game: A tile-matching puzzle game featuring recursive tile removal, gravity-based column shifts, and dynamic difficulty scaling.
+
+🧩 Tetris Game: A fully-featured Tetris clone implementing block rotation, collision detection, and line-clearing with score multipliers.
+
