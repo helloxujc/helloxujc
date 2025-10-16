@@ -3,6 +3,7 @@ Hi there, I'm Jiachen Xu 👋
 I'm currently pursuing a Master's Degree in Computer Science at Northeastern University's Seattle campus.
 
 My Projects:
+<br>
 
 ☕ BeanHunter Seattle (Java · Spring Boot · MySQL · Redis · Vue.js · Docker · AWS EC2)
 
