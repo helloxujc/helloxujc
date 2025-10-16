@@ -4,9 +4,11 @@ I'm currently pursuing a Master's Degree in Computer Science at Northeastern Uni
 
 My Projects:
 
-☕ BeanHunter Seattle: Coffee shop review platform with Redis caching (<100ms queries), location-based recommendations, and a flash-sale system handling 1000+ concurrent orders.
+☕ BeanHunter Seattle (Java · Spring Boot · MySQL · Redis · Vue.js · Docker · AWS EC2)
+Coffee-shop review platform featuring Redis caching (< 100 ms queries), location-based recommendations, and a flash-sale system supporting 1000 + concurrent orders.
 
-🏃‍♀️ RateMyRun: A full-stack web application for discovering, sharing, and reviewing running trails with interactive mapping.
+🏃‍♀️ RateMyRun (Node.js · Express · MongoDB · EJS · AWS S3 · Docker)
+Full-stack web app for discovering and reviewing running trails with interactive Mapbox visualization, authentication, and media storage.
 
-⚔️ BattleGrounds: Turn-based battle game with React + FastAPI, WebSocket real-time sync, and AI opponents. Deployed via Vercel/Render with GitHub Actions CI/CD.
-
+⚔️ BattleGrounds (React · FastAPI · TypeScript · Python · WebSocket · Vercel · Render)
+Turn-based battle game featuring real-time sync, AI opponents, and automated CI/CD deployment via GitHub Actions.
