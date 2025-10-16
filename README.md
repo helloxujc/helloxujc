@@ -9,9 +9,11 @@ My Projects:
 Coffee-shop review platform featuring Redis caching (< 100 ms queries), location-based recommendations, and a flash-sale system supporting 1000 + concurrent orders.
 
 
+
 🏃‍♀️ RateMyRun (Node.js · Express · MongoDB · EJS · AWS S3 · Docker)
 
 Full-stack web app for discovering and reviewing running trails with interactive Mapbox visualization, authentication, and media storage.
+
 
 
 ⚔️ BattleGrounds (React · FastAPI · TypeScript · Python · WebSocket · Vercel · Render)
